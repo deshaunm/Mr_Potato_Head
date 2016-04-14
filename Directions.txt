@@ -18,7 +18,7 @@ In Cloud 9 terminal:
 
 > git status
 > git add .
-> git commit -m "Commit message"
+> git commit -m "added body parts to mr.potato head"
 > git push origin master (or whatever initial branch is, typically master)
 
 From your GitHub create a new pull request (the green button) to send your changes to the instructor. 
